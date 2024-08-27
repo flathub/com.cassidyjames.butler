@@ -15,6 +15,9 @@
     {
       "name": "butler",
       "buildsystem": "meson",
+      "config-opts": [
+        "-Dprofile=release"
+      ],
       "sources": [
         {
           "type": "git",
