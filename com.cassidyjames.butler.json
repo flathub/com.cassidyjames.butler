@@ -22,8 +22,8 @@
         {
           "type": "git",
           "url": "https://github.com/cassidyjames/butler.git",
-          "tag": "1.1.3",
-          "commit": "10238d873fa0fcf76ecad85d87534cd65c1872e2",
+          "tag": "1.2.0",
+          "commit": "ddd8ea72f74713902dea434f3a56a14f60c694a4",
           "x-checker-data": {
             "is-main-source": true,
             "type": "git",
