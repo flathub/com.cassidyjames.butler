@@ -15,12 +15,15 @@
     {
       "name": "butler",
       "buildsystem": "meson",
+      "config-opts": [
+        "-Dprofile=release"
+      ],
       "sources": [
         {
           "type": "git",
           "url": "https://github.com/cassidyjames/butler.git",
-          "tag": "1.1.3",
-          "commit": "10238d873fa0fcf76ecad85d87534cd65c1872e2",
+          "tag": "1.2.0",
+          "commit": "90ab176b342a6be230e7e3f3e1c53a8eec32e095",
           "x-checker-data": {
             "is-main-source": true,
             "type": "git",
