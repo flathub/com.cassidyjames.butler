@@ -10,7 +10,7 @@
     "--share=ipc",
     "--share=network",
     "--device=dri",
-    // To restart after changing hardware acceleration setting
+    "//": "To restart after changing hardware acceleration setting",
     "--talk-name=org.freedesktop.Flatpak"
   ],
   "modules": [
