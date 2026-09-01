@@ -9,8 +9,7 @@
     "--socket=fallback-x11",
     "--share=ipc",
     "--share=network",
-    "--device=dri",
-    "--talk-name=org.freedesktop.Flatpak"
+    "--device=dri"
   ],
   "modules": [
     {
@@ -23,8 +22,8 @@
         {
           "type": "git",
           "url": "https://github.com/cassidyjames/butler.git",
-          "tag": "1.8.0",
-          "commit": "51d51b6aadf5c10d2a0b2556cfe0a165afed20cf",
+          "tag": "1.8.1",
+          "commit": "aae75cb92127f76498f1898cbf357d3154bd40f9",
           "x-checker-data": {
             "is-main-source": true,
             "type": "git",
